@@ -23,7 +23,8 @@
 - [ ] [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
  
 ## Тестирование
-- [ ] [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html#anti-pattern-4---testing-the-wrong-functionality) 
+- [x] [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html#anti-pattern-4---testing-the-wrong-functionality) 
+- [ ] [Пример разработки «Крестиков‑ноликов» по TDD](https://bespoyasov.ru/ttt-tdd/)
 
 ## How to
 - [x] [Как изучать SICP](https://guides.hexlet.io/how-to-learn-sicp/)
