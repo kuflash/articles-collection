@@ -16,8 +16,9 @@
 - [x] [Cold and hot callbacks](https://staltz.com/cold-and-hot-callbacks.html)
 - [ ] [Hot vs Cold Observables](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339)
 
-## Шаблоны проектирования
+## Архитектура
 - [ ] [Refactoring Guru. Design Patterns](https://refactoring.guru/design-patterns/)
+- [ ] [Implementing SOLID and the onion architecture in Node.js with TypeScript and InversifyJS](https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad)
 
 ## Веб-типографика
 - [ ] [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
