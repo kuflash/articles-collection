@@ -22,6 +22,9 @@
 
 ## Веб-типографика
 - [ ] [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
+
+## Доступность
+- [ ] [Практическое применение гайдлайнов доступности WCAG](https://seesparkbox.com/foundry/getting_comfortable_with_wcag)
  
 ## Тестирование
 - [x] [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html#anti-pattern-4---testing-the-wrong-functionality) 
