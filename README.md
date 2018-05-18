@@ -9,6 +9,7 @@
 - [x] [These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/angulars-digest-is-reborn-in-the-newer-version-of-angular-718a961ebd3e)
 - [x] [A Comprehensive Guide to Angular onPush Change Detection Strategy](https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4)
 - [x] [Angular’s $digest is reborn in the newer version of Angular](https://blog.angularindepth.com/angulars-digest-is-reborn-in-the-newer-version-of-angular-718a961ebd3e)
+- [ ] [First Look: Angular Ivy](https://www.telerik.com/blogs/first-look-angular-ivy)
 - [x] [Ускорение Angular-приложений](https://habr.com/company/jugru/blog/354552/)
 - [ ] [Анимация в Angular-приложениях](https://habr.com/company/infowatch/blog/353150/)
 
