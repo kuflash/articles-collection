@@ -4,6 +4,8 @@
 
 ## Javascript
 - [ ] [Как работает JS](https://habr.com/company/ruvds/blog/337042/)
+- [ ] [JavaScript. Ядро: 2-ое издание](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition-rus/)
+- [ ] [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 
 ## Angular
 - [x] [These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/angulars-digest-is-reborn-in-the-newer-version-of-angular-718a961ebd3e)
