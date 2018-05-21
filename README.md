@@ -15,7 +15,8 @@
 - [x] [Ускорение Angular-приложений](https://habr.com/company/jugru/blog/354552/)
 - [ ] [Анимация в Angular-приложениях](https://habr.com/company/infowatch/blog/353150/)
 - [ ] [Angular Ivy change detection execution: are you prepared?](https://blog.angularindepth.com/angular-ivy-change-detection-execution-are-you-prepared-ab68d4231f2c)
-- [ ] [Getting to Know the @Attribute Decorator in Angular](https://netbasal.com/getting-to-know-the-attribute-decorator-in-angular-4f7c9fb61243)
+- [x] [Getting to Know the @Attribute Decorator in Angular](https://netbasal.com/getting-to-know-the-attribute-decorator-in-angular-4f7c9fb61243)
+- [ ] [Ivy engine in Angular: first in-depth look at compilation, runtime and change detection](https://blog.angularindepth.com/ivy-engine-in-angular-first-in-depth-look-at-compilation-runtime-and-change-detection-876751edd9fd)
 
 ## Observables
 - [x] [Cold and hot callbacks](https://staltz.com/cold-and-hot-callbacks.html)
