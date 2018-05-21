@@ -36,6 +36,7 @@
 - [x] [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html#anti-pattern-4---testing-the-wrong-functionality) 
 - [ ] [Пример разработки «Крестиков‑ноликов» по TDD](https://bespoyasov.ru/ttt-tdd/)
 - [ ] [Пирамида тестов на практике](https://habr.com/post/358950/)
+- [ ] [Testing like a Pro in JavaScript](https://vueschool.io/articles/series/testing-like-a-pro-in-javascript/)
 
 ## How to
 - [x] [Как изучать SICP](https://guides.hexlet.io/how-to-learn-sicp/)
