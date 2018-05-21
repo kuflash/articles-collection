@@ -14,6 +14,7 @@
 - [ ] [First Look: Angular Ivy](https://www.telerik.com/blogs/first-look-angular-ivy)
 - [x] [Ускорение Angular-приложений](https://habr.com/company/jugru/blog/354552/)
 - [ ] [Анимация в Angular-приложениях](https://habr.com/company/infowatch/blog/353150/)
+- [ ] [Angular Ivy change detection execution: are you prepared?](https://blog.angularindepth.com/angular-ivy-change-detection-execution-are-you-prepared-ab68d4231f2c)
 
 ## Observables
 - [x] [Cold and hot callbacks](https://staltz.com/cold-and-hot-callbacks.html)
