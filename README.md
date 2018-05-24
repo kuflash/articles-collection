@@ -40,6 +40,7 @@
 
 ## How to
 - [x] [Как изучать SICP](https://guides.hexlet.io/how-to-learn-sicp/)
+- [ ] [How to think like a programmer — lessons in problem solving](https://dev.to/richardreeze/how-to-think-like-a-programmerlessons-in-problem-solving-5096)
 
 ## Blockchain
 - [ ] [Chiccocoin: Learn what is a Blockchain by creating one in NodeJS](https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b)
