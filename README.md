@@ -16,6 +16,7 @@
 - [ ] [Анимация в Angular-приложениях](https://habr.com/company/infowatch/blog/353150/)
 - [ ] [Angular Ivy change detection execution: are you prepared?](https://blog.angularindepth.com/angular-ivy-change-detection-execution-are-you-prepared-ab68d4231f2c)
 - [x] [Getting to Know the @Attribute Decorator in Angular](https://netbasal.com/getting-to-know-the-attribute-decorator-in-angular-4f7c9fb61243)
+- [ ] [A quick intro to Angular Ivy](https://herringtondarkholme.github.io/2018/02/19/angular-ivy/)
 - [ ] [Ivy engine in Angular: first in-depth look at compilation, runtime and change detection](https://blog.angularindepth.com/ivy-engine-in-angular-first-in-depth-look-at-compilation-runtime-and-change-detection-876751edd9fd)
 
 ## Observables
