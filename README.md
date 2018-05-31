@@ -2,6 +2,9 @@
 
 В данном списке находятся ссылки на статьи, которые меня заинтересовали.
 
+## Общие темы
+- [ ] [UTC is enough for everyone...right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
+
 ## Javascript
 - [ ] [Как работает JS](https://habr.com/company/ruvds/blog/337042/)
 - [ ] [JavaScript. Ядро: 2-ое издание](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition-rus/)
@@ -44,6 +47,7 @@
 ## How to
 - [x] [Как изучать SICP](https://guides.hexlet.io/how-to-learn-sicp/)
 - [ ] [How to think like a programmer — lessons in problem solving](https://dev.to/richardreeze/how-to-think-like-a-programmerlessons-in-problem-solving-5096)
+- [ ] [Как подготовиться к публичному выступлению](https://speaking.io/)
 
 ## Blockchain
 - [ ] [Chiccocoin: Learn what is a Blockchain by creating one in NodeJS](https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b)
