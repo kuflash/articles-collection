@@ -31,6 +31,7 @@
 ## Архитектура
 - [ ] [Refactoring Guru. Design Patterns](https://refactoring.guru/design-patterns/)
 - [ ] [Implementing SOLID and the onion architecture in Node.js with TypeScript and InversifyJS](https://dev.to/remojansen/implementing-the-onion-architecture-in-nodejs-with-typescript-and-inversifyjs-10ad)
+- [ ] [The Hub for Feature Flag Driven Development](http://featureflags.io/)
 
 ## Веб-типографика
 - [ ] [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
