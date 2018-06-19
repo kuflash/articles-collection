@@ -23,6 +23,7 @@
 - [ ] [Ivy engine in Angular: first in-depth look at compilation, runtime and change detection](https://blog.angularindepth.com/ivy-engine-in-angular-first-in-depth-look-at-compilation-runtime-and-change-detection-876751edd9fd)
 - [ ] [Zone.js или как Dart спас Angular](https://habr.com/company/wrike/blog/310422/)
 - [ ] [Что такое Zone.js?](http://freaksidea.com/javascript/show-131-chto-takoe-zonejs)
+- [ ] [From custom Webpack build to Angular CLI](https://medium.com/bratislava-angular/from-custom-webpack-build-to-angular-cli-9d87c3da6925)
 
 ## Observables
 - [x] [Cold and hot callbacks](https://staltz.com/cold-and-hot-callbacks.html)
